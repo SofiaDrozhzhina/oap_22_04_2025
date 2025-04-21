@@ -1,5 +1,3 @@
-# solution.py
-
 class AmericanDate:
     def __init__(self, year, month, day):
         self.year = year
