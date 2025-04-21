@@ -1,5 +1,3 @@
-# solution.py
-
 class LeftParagraph:
     def __init__(self, width):
         self.width = width
