@@ -1,5 +1,3 @@
-# solution.py
-
 class MinStat:
     def __init__(self):
         self.values = []
